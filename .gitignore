@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# local-only agent / tracker metadata — never publish
+CLAUDE.md
+.claude/
+.drift/
